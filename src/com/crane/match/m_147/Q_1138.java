@@ -1,9 +1,6 @@
-package com.crane.match147;
+package com.crane.match.m_147;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Q_1138 {
 

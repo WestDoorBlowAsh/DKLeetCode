@@ -49,23 +49,19 @@ public class Array5_189 {
         k %= n;
         // 第一次交换完毕后，前 k 位数字位置正确，后 n-k 位数字中最后 k 位数字顺序错误，继续交换
         for (int start = 0; start < nums.length && k != 0; n -= k, start += k, k %= n) {
-
-            System.out.println("start = " + start + "; " + "k = " + k + "; " + "n = " + n + ";");
-
+//            System.out.println("start = " + start + "; " + "k = " + k + "; " + "n = " + n + ";");
             for (int i = 0; i < k; i++) {
                 swap(nums, start + i, nums.length - k + i);
-
-                System.out.println("++++++++++++++++++++++++++++++++++++");
-                System.out.println(Arrays.toString(nums));
+//                System.out.println("++++++++++++++++++++++++++++++++++++");
+//                System.out.println(Arrays.toString(nums));
             }
-
-            System.out.println("====================================");
-            System.out.println(Arrays.toString(nums));
-
+//            System.out.println("====================================");
+//            System.out.println(Arrays.toString(nums));
         }
     }
 
     public void rotate4(int[] nums, int k) {
+
         recursiveSwap(nums, k, 0, nums.length);
     }
 
