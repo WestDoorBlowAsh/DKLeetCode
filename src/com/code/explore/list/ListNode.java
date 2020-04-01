@@ -1,4 +1,4 @@
-package com.code.explore.listNode;
+package com.code.explore.list;
 
 public class ListNode {
     int val;

@@ -1,4 +1,4 @@
-package com.code.explore.listNode;
+package com.code.explore.list;
 
 public class L1 {
 
@@ -18,7 +18,7 @@ public class L1 {
 
         obj.deleteNode(valNode);
 
-        System.out.println(head.toString());
+        System.out.println(head);
 
 
     }

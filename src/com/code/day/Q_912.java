@@ -5,6 +5,7 @@ import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import org.apache.commons.lang.ArrayUtils;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Q_912 {
@@ -53,6 +54,22 @@ public class Q_912 {
         return nums;
     }
 
+    public static <T> T[] convertArray(Class<T> targetType, Object[] arrayObjects) {
+        if (targetType == null) {
+            return (T[]) arrayObjects;
+        }
+        if (arrayObjects == null) {
+            return null;
+        }
+        T[] targetArray = (T[]) Array.newInstance(targetType, arrayObjects.length);
+        try {
+            System.arraycopy(arrayObjects, 0, targetArray, 0, arrayObjects.length);
+        } catch (ArrayStoreException e) {
+            e.printStackTrace();
+        }
+        return targetArray;
+    }
+
     public static void main(String[] args) {
 
         Q_912 obj = new Q_912();
@@ -70,15 +87,16 @@ public class Q_912 {
         JSONObject jobj = JSONObject.fromObject(jsonString);
 
         JSONArray arr = jobj.getJSONArray("arr");
-        int[] objArr = ArrayUtils.toPrimitive((Integer[]) arr.toArray());
-        System.out.println(objArr.length);
 
-        Integer num = (Integer) objArr[10];
-        System.out.println(num);
+
+        Integer[] objArr11 = convertArray(Integer.class, arr.toArray());
+        int[] objArr = ArrayUtils.toPrimitive((Integer[]) objArr11);
+
+        System.out.println(objArr.length);
 
         obj.sortArray(objArr);
 
-        System.out.println(objArr);
+        System.out.println(Arrays.toString(objArr));
 
     }
 }

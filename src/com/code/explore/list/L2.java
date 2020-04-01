@@ -1,4 +1,4 @@
-package com.code.explore.listNode;
+package com.code.explore.list;
 
 import java.util.HashMap;
 
@@ -61,7 +61,7 @@ public class L2 {
 
         int[] arr = new int[]{1,2,3};
         ListNode head = new ListNode(arr);
-        System.out.println(head.toString());
+        System.out.println(head);
 
         ListNode node = obj.removeNthFromEnd(head, 3);
         System.out.println(node);

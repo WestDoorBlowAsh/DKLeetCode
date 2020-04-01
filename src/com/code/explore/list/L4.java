@@ -1,4 +1,4 @@
-package com.code.explore.listNode;
+package com.code.explore.list;
 
 public class L4 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
@@ -32,11 +32,11 @@ public class L4 {
 
         int[] arr = new int[]{3,4,5};
         ListNode head = new ListNode(arr);
-        System.out.println(head.toString());
+        System.out.println(head);
 
         int[] arr1 = new int[]{1,1,2};
         ListNode head1 = new ListNode(arr1);
-        System.out.println(head1.toString());
+        System.out.println(head1);
 
 //        ListNode merge = obj.mergeTwoLists(head, head1);
 

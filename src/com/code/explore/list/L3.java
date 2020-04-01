@@ -1,4 +1,4 @@
-package com.code.explore.listNode;
+package com.code.explore.list;
 
 import java.util.HashMap;
 
@@ -58,7 +58,7 @@ public class L3 {
 
         int[] arr = new int[]{1,2,3};
         ListNode head = new ListNode(arr);
-        System.out.println(head.toString());
+        System.out.println(head);
 
         ListNode rev = obj.reverseList1(head);
         System.out.println(rev);
