@@ -1,14 +1,14 @@
 package com.code.explore.list;
 
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
-    ListNode(int x) {
+    public ListNode(int x) {
         val = x;
     }
 
-    ListNode(int[] arr) {
+    public ListNode(int[] arr) {
         if (arr == null || arr.length == 0) return;
 
         ListNode last = null;

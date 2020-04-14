@@ -1,75 +1,41 @@
 package com.code.explore.tree;
 
+import com.sun.source.tree.Tree;
 import org.apache.commons.lang.ArrayUtils;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class T3 {
-    public boolean isSymmetric(TreeNode root) {
+    public boolean isSymmetric1(TreeNode root) {
+        if (root == null) return true;
+        return isMirror(root.left, root.right);
+    }
 
-        Integer[] arr = getTreeNodeArray(root);
-        System.out.println(Arrays.toString(arr));
-        for (int i = 0, j = arr.length - 1; i < j; i++, j--) {
-            if (arr[i] != arr[j]) {
-                return false;
-            }
+    public boolean isMirror(TreeNode t1, TreeNode t2) {
+        if (t1 == null && t2 == null) return true;
+        if (t1 == null || t2 == null) return false;
+        return t1.val == t2.val && isMirror(t1.left, t2.right) && isMirror(t1.right, t2.left);
+    }
+
+    public boolean isSymmetric(TreeNode root) {
+        LinkedList<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            TreeNode p = queue.poll();
+            TreeNode q = queue.poll();
+            if (p == null && q == null) continue;
+            if (p == null || q == null) return false;
+            if (p.val != q.val) return false;
+            queue.add(p.left);
+            queue.add(q.right);
+            queue.add(p.right);
+            queue.add(q.left);
         }
         return true;
     }
 
-    public static <T> T[] concat(T[] first, T[] second) {
-        T[] result = Arrays.copyOf(first, first.length + second.length);
-        System.arraycopy(second, 0, result, first.length, second.length);
-        return result;
-    }
-
-    Integer[] getTreeNodeArray(TreeNode root) {
-
-        Integer[] arr = new Integer[]{};
-        if (root == null && root.left == null && root.right == null) {
-            return arr;
-        }
-        Integer[] left, right;
-        if (root.left != null) {
-            left = getTreeNodeArray(root.left);
-            arr = concat(arr, left);
-        } else {
-            arr = concat(arr, new Integer[]{null});
-        }
-        arr = concat(arr, new Integer[]{root.val});
-
-        if (root.right != null) {
-            right = getTreeNodeArray(root.right);
-            arr = concat(arr, right);
-        } else {
-            arr = concat(arr, new Integer[]{null});
-        }
-        return arr;
-    }
-
-    Integer[] getTreeNodeArray1(TreeNode root) {
-
-        Integer[] arr = new Integer[]{};
-        if (root == null) {
-            return arr;
-        }
-        Integer[] left, right;
-        if (root.left != null) {
-            left = getTreeNodeArray(root.left);
-            arr = (Integer[]) ArrayUtils.addAll(arr, left);
-        } else {
-            arr = (Integer[])ArrayUtils.add(arr, null);
-        }
-        arr = (Integer[])ArrayUtils.add(arr, root.val);
-        if (root.right != null) {
-            right = getTreeNodeArray(root.right);
-            arr = (Integer[])ArrayUtils.addAll(arr, right);
-        } else {
-            arr = (Integer[])ArrayUtils.add(arr, null);
-
-        }
-        return arr;
-    }
 
     public static void main(String[] args) {
 
