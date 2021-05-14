@@ -1,6 +1,6 @@
 package com.code.explore.dynamic_programming;
 
-public class D1 {
+public class DP1 {
 
     int[] arr;
 
@@ -48,7 +48,7 @@ public class D1 {
 
     public static void main(String[] args) {
     
-        D1 obj = new D1();
+        DP1 obj = new DP1();
 
         int n = 1;
         System.out.println(obj.climbStairs(n));
