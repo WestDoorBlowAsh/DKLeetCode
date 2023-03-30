@@ -2,14 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf258e-c862-4eb5-89ac-2223f26bdd6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/code/day/Q_542.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/DP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/day/0_MeiRi_Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/DQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/DQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/json_lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/json_lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/com/tool/testData.json" beforeDir="false" afterPath="$PROJECT_DIR$/production/com/tool/testData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/D1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/DP1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tool/testData.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tool/testData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array10_243_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array10_243_unlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array11_244_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array11_244_unlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array12_245_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array12_245_unlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array13_217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array13_217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array14_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array14_55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array1_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array1_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array2_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array2_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array3_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array3_80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array4_277_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array4_277_unlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array5_189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array5_189.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array6_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array6_41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array7_299.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array7_299.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array8_134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array8_134.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array9_274.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array9_274.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array9_275.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array9_275.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/day/M_0107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/M_0107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/day/M_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/M_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_1111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_1111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_289.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_289.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_445.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_445.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_912.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_912.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/D1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/sort_search/SS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/sort_search/SS1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/sort_search/SS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/sort_search/SS2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/match/m_147/Q_1137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/match/m_147/Q_1137.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/match/m_147/Q_1138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/match/m_147/Q_1138.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/match/m_148/Q_5147.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/match/m_148/Q_5147.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/sort/Sort1_Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/sort/Sort1_Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/string/String1_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/string/String1_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/string/String2_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/string/String2_14.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,56 +107,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/code/day/Q_542.java">
+      <file leaf-file-name="AS2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/code/explore/dynamic_programming/DP1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/code/explore/dynamic_programming/DP2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tool/sortData.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="2" column="1120" selection-start-line="2" selection-start-column="1116" selection-end-line="2" selection-end-column="1121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tool/testData.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/code/day/M_13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+            <state relative-caret-position="225">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,11 +119,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/code/explore/array/A11.java">
+      <file leaf-file-name="AS3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="81" selection-start-line="44" selection-start-column="81" selection-end-line="44" selection-end-column="81" />
+            <state relative-caret-position="289">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,7 +145,6 @@
     <findStrings>
       <find />
       <find>{}</find>
-      <find>&quot;</find>
       <find>fill</find>
       <find>new Map</find>
       <find>number</find>
@@ -121,14 +159,13 @@
       <find>Integer[]</find>
       <find>stream</find>
       <find>right</find>
+      <find>indexOf</find>
+      <find>&quot;</find>
       <find>MAX</find>
-      <find>遍历</find>
-      <find>mat</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>[]</replace>
-      <replace>'</replace>
       <replace>Character, Integer</replace>
       <replace>head</replace>
       <replace>head1</replace>
@@ -136,7 +173,8 @@
       <replace>afterCellValue</replace>
       <replace>ArrayList&lt;Integer&gt;</replace>
       <replace>t2</replace>
-      <replace>mat</replace>
+      <replace>get</replace>
+      <replace>'</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -148,32 +186,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/crane/explore/array/E8.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/array/E9.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/array/E10.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/array/E11.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/array/A6.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/array/A7.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S1.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S2.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/array/A5.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S3.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S4.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S5.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S6.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S7.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S8.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/string/S9.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/listNode/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/listNode/L1.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/listNode/L2.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/listNode/L3.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/explore/listNode/L4.java" />
-        <option value="$PROJECT_DIR$/src/com/crane/day/Q_912.java" />
         <option value="$PROJECT_DIR$/src/com/crane/sort/SortData.java" />
         <option value="$PROJECT_DIR$/src/com/crane/sort/SortData.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/tool/SortData.json" />
+        <option value="$PROJECT_DIR$/src/com/tool/testData.json" />
         <option value="$PROJECT_DIR$/src/com/tool/DKFile.java" />
         <option value="$PROJECT_DIR$/src/com/code/day/Q_912.java" />
         <option value="$PROJECT_DIR$/src/com/code/day/Q_1111.java" />
@@ -195,18 +212,48 @@
         <option value="$PROJECT_DIR$/src/com/code/explore/list/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/code/day/Q_445.java" />
         <option value="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/D1.java" />
-        <option value="$PROJECT_DIR$/src/com/tool/testData.json" />
-        <option value="$PROJECT_DIR$/src/com/code/day/Q_542.java" />
-        <option value="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/D2.java" />
-        <option value="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/DP1.java" />
+        <option value="$PROJECT_DIR$/src/com/code200404/explore/string/S8.java" />
+        <option value="$PROJECT_DIR$/src/com/code200404/string/String1_28.java" />
+        <option value="$PROJECT_DIR$/src/com/code200404/explore/dynamic_programming/D1.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/day/M_13.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A2.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/D2.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/D3.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/D4.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/array/Array2_26.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/D1.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/D2.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/DQ2.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M1.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M2.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M3.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M4.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O1.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O2.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O3.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O4.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O5.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O6.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS1.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS2.java" />
+        <option value="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="675" />
-    <option name="y" value="47" />
-    <option name="width" value="1281" />
-    <option name="height" value="1015" />
+    <option name="x" value="438" />
+    <option name="y" value="25" />
+    <option name="width" value="1002" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -216,6 +263,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,42 +288,30 @@
               <item name="DKLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="code2004" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DKLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="DKLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
+              <item name="code2004" type="462c0819:PsiDirectoryNode" />
+              <item name="leetBook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DKLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="DKLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic_programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DKLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DKLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DKLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="code2004" type="462c0819:PsiDirectoryNode" />
+              <item name="leetBook" type="462c0819:PsiDirectoryNode" />
+              <item name="Array_String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +327,8 @@
     <property name="project.structure.proportion" value="0.2225" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -309,79 +347,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q_542">
-    <configuration name="DP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.explore.dynamic_programming.DP1" />
+  <component name="RunManager" selected="Application.AS3">
+    <configuration name="AS1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS1" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.explore.dynamic_programming.*" />
+          <option name="PATTERN" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="Q_445" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.day.Q_445" />
+    <configuration name="AS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS2" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.day.*" />
+          <option name="PATTERN" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="Q_542" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.day.Q_542" />
+    <configuration name="AS3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS3" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.day.*" />
+          <option name="PATTERN" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="SS1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.explore.sort_search.SS1" />
+    <configuration name="O5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ChuJiSuanFa.Other.O5" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.explore.sort_search.*" />
+          <option name="PATTERN" value="com.code2004.leetBook.ChuJiSuanFa.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="SS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.explore.sort_search.SS2" />
+    <configuration name="O6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ChuJiSuanFa.Other.O6" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.explore.sort_search.*" />
+          <option name="PATTERN" value="com.code2004.leetBook.ChuJiSuanFa.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.O5" />
+      <item itemvalue="Application.O6" />
+      <item itemvalue="Application.AS1" />
+      <item itemvalue="Application.AS2" />
+      <item itemvalue="Application.AS3" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q_542" />
-        <item itemvalue="Application.DP1" />
-        <item itemvalue="Application.Q_445" />
-        <item itemvalue="Application.SS2" />
-        <item itemvalue="Application.SS1" />
+        <item itemvalue="Application.AS3" />
+        <item itemvalue="Application.AS2" />
+        <item itemvalue="Application.AS1" />
+        <item itemvalue="Application.O6" />
+        <item itemvalue="Application.O5" />
       </list>
     </recent_temporary>
   </component>
@@ -421,24 +451,13 @@
       <workItem from="1586483914888" duration="123000" />
       <workItem from="1586742123066" duration="121000" />
       <workItem from="1586828699891" duration="8920000" />
-      <workItem from="1586862343090" duration="81000" />
-      <workItem from="1586914696152" duration="2761000" />
-      <workItem from="1586917699670" duration="1815000" />
-      <workItem from="1587002041292" duration="410000" />
-      <workItem from="1587088690772" duration="368000" />
-      <workItem from="1587347182413" duration="795000" />
-      <workItem from="1587433947211" duration="292000" />
-      <workItem from="1587520528762" duration="492000" />
-      <workItem from="1587606734242" duration="437000" />
-      <workItem from="1589781322277" duration="646000" />
-      <workItem from="1596080503085" duration="280000" />
-      <workItem from="1599622332291" duration="821000" />
-      <workItem from="1599702981849" duration="97000" />
+      <workItem from="1586865202802" duration="477000" />
+      <workItem from="1679715709283" duration="52778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235888000" />
+    <option name="totallyTimeSpent" value="279798000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -450,40 +469,74 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="675" y="47" width="1281" height="1015" extended-state="0" />
+    <frame x="438" y="25" width="1002" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" sideWeight="0.5025729" side_tool="true" weight="0.20582707" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5025729" side_tool="true" weight="0.20582707" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4974271" visible="true" weight="0.2921711" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4976526" weight="0.32936078" />
-      <window_info anchor="bottom" x="638" y="415" width="1358" height="255" id="Run" order="2" sideWeight="0.49577466" weight="0.22426869" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49929178" weight="0.28710726" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4981203" weight="0.32827735" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15817985" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5042254" side_tool="true" weight="0.28277355" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.2496318" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49717513" weight="0.32780084" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32722145" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5052083" side_tool="true" weight="0.33850494" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4981203" weight="0.15796897" />
+      <window_info anchor="bottom" x="638" y="415" width="1358" height="255" id="Run" order="2" sideWeight="0.49577466" visible="true" weight="0.33850494" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15767635" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4974271" visible="true" weight="0.32916668" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4976526" weight="0.32863188" />
+      <window_info id="Structure" order="0" sideWeight="0.5025729" side_tool="true" weight="0.20582707" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2496318" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5025729" side_tool="true" weight="0.20582707" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.56041664" weight="0.41184768" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" show_stripe_button="false" side_tool="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2496318" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" x="638" y="415" width="1358" height="255" id="Run" order="2" sideWeight="0.49858356" weight="0.2036824" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" show_stripe_button="false" side_tool="true" weight="0.3292683" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="6" sideWeight="0.50165564" side_tool="true" weight="0.21954674" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21438451" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50141644" side_tool="true" weight="0.33480176" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32929516" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32929516" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834436" visible="true" weight="0.21689895" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32911393" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.50165564" side_tool="true" weight="0.21954674" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49929178" weight="0.4177215" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -513,20 +566,17 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="46" />
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -539,16 +589,6 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>num == 88</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>num == 9</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
       <expression>
         <expression-string>root == null</expression-string>
         <language-id>JAVA</language-id>
@@ -619,372 +659,403 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/list/L2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/array/Array11_244_unlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/list/L3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/array/Array12_245_unlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crane/sort/SortData.java" />
-    <entry file="file://$PROJECT_DIR$/resources.properties" />
-    <entry file="file://$PROJECT_DIR$/src/resource.properties" />
-    <entry file="file://$PROJECT_DIR$/src/com/code/sort/Sort1_Bubble.java">
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/day/M_0107.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="173" column="19" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode20190203.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../11_software/json-lib/json-lib-2.4-jdk15.jar!/net/sf/json/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="989" column="30" selection-start-line="989" selection-start-column="30" selection-end-line="989" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tool/DKFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="2715" column="13" selection-start-line="2715" selection-start-column="13" selection-end-line="2715" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../11_software/json-lib/json-lib-2.4-jdk15.jar!/net/sf/json/JSONArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="1610" column="20" selection-start-line="1610" selection-start-column="20" selection-end-line="1610" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2186">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="147" column="14" lean-forward="true" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
-          <folding>
-            <element signature="e#5155#5156#0" expanded="true" />
-            <element signature="e#5226#5227#0" expanded="true" />
-            <element signature="e#252043#252044#0" expanded="true" />
-            <element signature="e#252096#252097#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/array/Array1_27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-332">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/array/Array2_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/array/Array3_80.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/day/Q_1111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/day/Q_912.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/list/L4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="33" selection-start-line="32" selection-start-column="7" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/list/L5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="51" selection-start-line="86" selection-start-column="8" selection-end-line="92" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/tree/T1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="47" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/tree/T2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="36" column="49" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="36" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../11_software/json-lib/commons-lang-2.4.jar!/org/apache/commons/lang/ArrayUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="1573" column="27" selection-start-line="1573" selection-start-column="27" selection-end-line="1573" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
-          <folding>
-            <element signature="e#6338#6339#0" expanded="true" />
-            <element signature="e#6406#6407#0" expanded="true" />
-            <element signature="e#14236#14237#0" expanded="true" />
-            <element signature="e#14291#14292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="382" column="12" selection-start-line="382" selection-start-column="12" selection-end-line="382" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/day/Q_289.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/array/Array14_55.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/array/Array13_217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/tree/T3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/tree/T4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#146#161#0" expanded="true" />
-            <element signature="e#968#983#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/tree/T5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="823" column="32" selection-start-line="823" selection-start-column="32" selection-end-line="823" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/sort_search/SS1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/sort_search/SS2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/day/Q_445.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/list/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/list/L6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/day/M_0107.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="349">
           <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/day/Q_542.java">
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/day/Q_445.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/dynamic_programming/DP1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tool/sortData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="2" column="1120" selection-start-line="2" selection-start-column="1116" selection-end-line="2" selection-end-column="1121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tool/testData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/day/M_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        <state relative-caret-position="-302">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/array/A11.java">
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/match/m_147/Q_1138.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
           <caret line="44" column="81" selection-start-line="44" selection-start-column="81" selection-end-line="44" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code/explore/dynamic_programming/DP2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/day/0_MeiRi_Question">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/day/M_13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="262">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/day/Q_289.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChiJiSuanFa/ZhongJiSuanFa/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/match/m_147/Q_1137.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/match/m_148/Q_5147.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/sort/Sort1_Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/string/String1_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/string/String2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#59#60#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1372">
+          <caret line="333" column="76" lean-forward="true" selection-start-line="333" selection-start-column="76" selection-end-line="333" selection-end-column="76" />
+          <folding>
+            <element signature="e#11994#11995#0" expanded="true" />
+            <element signature="e#12025#12026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/array/Array2_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/array/Array1_27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-557">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/DQ2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/DQ1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1212">
+          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+          <folding>
+            <element signature="e#19292#19293#0" expanded="true" />
+            <element signature="e#19375#19376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="647" column="8" selection-start-line="647" selection-start-column="8" selection-end-line="647" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="5148" column="25" selection-start-line="5148" selection-start-column="25" selection-end-line="5148" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,6 +1088,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>json-lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1028,7 +1100,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>12.0.1</last-edited>
+          <last-edited>9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1045,6 +1117,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
