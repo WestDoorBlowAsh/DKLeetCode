@@ -1,96 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9faf258e-c862-4eb5-89ac-2223f26bdd6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/day/0_MeiRi_Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/Other/O6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/DQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/design_question/DQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/math/M4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/json_lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/json_lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9faf258e-c862-4eb5-89ac-2223f26bdd6a" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/LinkList/L1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/LinkList/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/LinkList/L3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array10_243_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array10_243_unlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array11_244_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array11_244_unlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array12_245_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array12_245_unlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array13_217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array13_217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array14_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array14_55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array1_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array1_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array2_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array2_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array3_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array3_80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array4_277_unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array4_277_unlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array5_189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array5_189.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array6_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array6_41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array7_299.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array7_299.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array8_134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array8_134.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array9_274.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array9_274.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Array9_275.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Array9_275.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/array/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/day/M_0107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/M_0107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/day/M_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/M_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_1111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_1111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_289.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_289.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_445.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_445.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/day/Q_912.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_912.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/array/A9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/array/A9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/dynamic_programming/D1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/dynamic_programming/DP1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/L6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/sort_search/SS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/sort_search/SS1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/sort_search/SS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/sort_search/SS2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/string/S9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/string/S9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/T5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/T5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/explore/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/match/m_147/Q_1137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/match/m_147/Q_1137.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/match/m_147/Q_1138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/match/m_147/Q_1138.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/match/m_148/Q_5147.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/match/m_148/Q_5147.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/sort/Sort1_Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/sort/Sort1_Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/string/String1_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/string/String1_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/string/String2_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/string/String2_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/day/Q_445.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/day/Q_445.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/L6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ChuJiSuanFa/list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,16 +35,13 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="DKLeetCode" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="AS2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="425">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,14 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AS3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AS3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="272">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AS1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -255,6 +194,7 @@
     <option name="width" value="1002" />
     <option name="height" value="812" />
   </component>
+  <component name="ProjectId" id="2NoD0LFShJfnXRHONwtto8GkCBd" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -264,7 +204,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,43 +250,35 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="true" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.2225" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,
+    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/crane/Desktop/12_Study_Project/DKLeetCode&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/tool" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.AS3">
+  <component name="RunManager" selected="应用程序.L2">
     <configuration name="AS1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS1" />
       <module name="DKLeetCode" />
@@ -357,9 +288,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS2" />
+    <configuration name="AS5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS5" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -367,9 +301,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AS3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS3" />
+    <configuration name="AS6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.Array_String.AS6" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -377,44 +314,54 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="O5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ChuJiSuanFa.Other.O5" />
+    <configuration name="L1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.LinkList.L1" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code2004.leetBook.ChuJiSuanFa.Other.*" />
+          <option name="PATTERN" value="com.code2004.leetBook.ZhongJiSuanFa.LinkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="O6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ChuJiSuanFa.Other.O6" />
+    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code2004.leetBook.ZhongJiSuanFa.LinkList.L2" />
       <module name="DKLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code2004.leetBook.ChuJiSuanFa.Other.*" />
+          <option name="PATTERN" value="com.code2004.leetBook.ZhongJiSuanFa.LinkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.O5" />
-      <item itemvalue="Application.O6" />
-      <item itemvalue="Application.AS1" />
-      <item itemvalue="Application.AS2" />
-      <item itemvalue="Application.AS3" />
+      <item itemvalue="应用程序.AS1" />
+      <item itemvalue="应用程序.AS5" />
+      <item itemvalue="应用程序.AS6" />
+      <item itemvalue="应用程序.L1" />
+      <item itemvalue="应用程序.L2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AS3" />
-        <item itemvalue="Application.AS2" />
-        <item itemvalue="Application.AS1" />
-        <item itemvalue="Application.O6" />
-        <item itemvalue="Application.O5" />
+        <item itemvalue="应用程序.L2" />
+        <item itemvalue="应用程序.L1" />
+        <item itemvalue="应用程序.AS6" />
+        <item itemvalue="应用程序.AS5" />
+        <item itemvalue="应用程序.AS1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -453,11 +400,13 @@
       <workItem from="1586828699891" duration="8920000" />
       <workItem from="1586865202802" duration="477000" />
       <workItem from="1679715709283" duration="52778000" />
+      <workItem from="1680318098561" duration="799000" />
+      <workItem from="1680318940696" duration="1415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279798000" />
+    <option name="totallyTimeSpent" value="282012000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -470,11 +419,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="438" y="25" width="1002" height="812" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49717513" weight="0.32780084" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32722145" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -482,19 +429,20 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4981203" weight="0.15796897" />
-      <window_info anchor="bottom" x="638" y="415" width="1358" height="255" id="Run" order="2" sideWeight="0.49577466" visible="true" weight="0.33850494" />
+      <window_info anchor="right" id="leetcode" side_tool="true" weight="0.32985386" />
+      <window_info anchor="bottom" x="638" y="415" width="1358" height="255" id="Run" order="2" sideWeight="0.49577466" weight="0.33850494" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.15767635" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4974271" visible="true" weight="0.32916668" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4974271" weight="0.3434238" />
       <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4976526" weight="0.32863188" />
       <window_info id="Structure" order="0" sideWeight="0.5025729" side_tool="true" weight="0.20582707" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2496318" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5025729" side_tool="true" weight="0.20582707" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.56041664" weight="0.41184768" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32722145" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -503,6 +451,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4976526" weight="0.32863188" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2496318" />
@@ -546,37 +495,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="46" />
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -659,20 +586,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/code2004/array/Array11_244_unlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code2004/array/Array12_245_unlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/code2004/day/M_0107.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -701,10 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,9 +658,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChiJiSuanFa/ZhongJiSuanFa/test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ChiJiSuanFa/ZhongJiSuanFa/test" />
     <entry file="file://$PROJECT_DIR$/src/com/code2004/match/m_147/Q_1137.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-560">
@@ -791,10 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="e#59#60#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -802,10 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1372">
           <caret line="333" column="76" lean-forward="true" selection-start-line="333" selection-start-column="76" selection-end-line="333" selection-end-column="76" />
-          <folding>
-            <element signature="e#11994#11995#0" expanded="true" />
-            <element signature="e#12025#12026#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,10 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-          <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,9 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,10 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16">
           <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#205#213#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,10 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1212">
           <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
-          <folding>
-            <element signature="e#19292#19293#0" expanded="true" />
-            <element signature="e#19375#19376#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -933,9 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -978,9 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-703">
           <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1016,26 +894,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="425">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1051,11 +916,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="272">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[1]两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="3" selection-start-line="28" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[831]隐藏个人信息.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/code2004/leetBook/ZhongJiSuanFa/Array_String/AS1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,7 @@
 package com.code2004.leetBook.ChuJiSuanFa.list;
 
+import com.code2004.leetBook.ListNode;
+
 import java.util.HashMap;
 
 public class L3 {

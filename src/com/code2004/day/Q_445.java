@@ -1,6 +1,6 @@
 package com.code2004.day;
 
-import com.code2004.leetBook.ChuJiSuanFa.list.ListNode;
+import com.code2004.leetBook.ListNode;
 
 import java.util.*;
 

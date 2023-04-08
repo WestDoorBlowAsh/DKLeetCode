@@ -1,5 +1,7 @@
 package com.code2004.leetBook.ChuJiSuanFa.list;
 
+import com.code2004.leetBook.ListNode;
+
 public class L1 {
 
     public void deleteNode(ListNode node) {

@@ -1,25 +1,42 @@
 package com.code2004.leetBook.ZhongJiSuanFa.Array_String;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class AS3 {
 
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> list = new ArrayList<>();
-        List<String> arr = new ArrayList<>() {{
-            add(strs[0]);
-        }};
-        list.add(arr);
-        for (int i = 1; i < strs.length; i++) {
-            for (int j = 0; j < list.size(); j++) {
-                List tempArr = list.get(j);
-
-            }
+        if (strs == null || strs.length == 0) {
+            return new ArrayList<>();
         }
-
-        return list;
+        HashMap<String, ArrayList<String>> map = new HashMap<>();
+        for (int i = 0; i < strs.length; i++) {
+            char[] char26 = new char[26];
+            for (Character c: strs[i].toCharArray()) {
+                char26[c - 'a']++;
+            }
+            String sortStr = String.valueOf(char26) ;
+            if (!map.containsKey(sortStr)) {
+                map.put(sortStr, new ArrayList());
+            }
+            map.get(sortStr).add(strs[i]);
+        }
+        return new ArrayList<List<String>>(map.values());
+    }
+    public List<List<String>> groupAnagrams1(String[] strs) {
+        if (strs == null || strs.length == 0) {
+            return new ArrayList<>();
+        }
+        HashMap<String, ArrayList<String>> map = new HashMap<>();
+        for (int i = 0; i < strs.length; i++) {
+            char[] charArr = strs[i].toCharArray();
+            Arrays.sort(charArr);
+            String sortStr = String.valueOf(charArr) ;
+            if (!map.containsKey(sortStr)) {
+                map.put(sortStr, new ArrayList());
+            }
+            map.get(sortStr).add(strs[i]);
+        }
+        return new ArrayList<List<String>>(map.values());
     }
 
     private void test() {

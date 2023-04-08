@@ -1,4 +1,4 @@
-package com.code2004.leetBook.ChuJiSuanFa.list;
+package com.code2004.leetBook;
 
 public class ListNode {
     public int val;
@@ -24,7 +24,7 @@ public class ListNode {
         }
     }
 
-    ListNode getNode(int value) {
+    public ListNode getNode(int value) {
         ListNode node = this;
         while (node != null) {
             if (node.val == value) return node;

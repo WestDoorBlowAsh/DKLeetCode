@@ -1,5 +1,7 @@
 package com.code2004.leetBook.ChuJiSuanFa.list;
 
+import com.code2004.leetBook.ListNode;
+
 public class L6 {
 
     public boolean hasCycle1(ListNode head) {

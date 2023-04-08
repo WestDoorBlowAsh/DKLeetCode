@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[121]买卖股票的最佳时机.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/doc/content/[121]买卖股票的最佳时机.md" />
+              <option name="frontendQuestionId" value="leetcode.cn121" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[121]买卖股票的最佳时机.java" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/doc/content/[122]买卖股票的最佳时机 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn122" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[26]删除有序数组中的重复项.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/doc/content/[26]删除有序数组中的重复项.md" />
+              <option name="frontendQuestionId" value="leetcode.cn26" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../IdeaPluginLeetcode/leetcode/editor/cn/[26]删除有序数组中的重复项.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
